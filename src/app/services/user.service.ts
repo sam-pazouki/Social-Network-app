@@ -7,6 +7,7 @@ import { resolve } from 'dns';
   providedIn: 'root'
 })
 export class UserService {
+  user: undefined;
 
   constructor( private http:HttpClient) { }
 

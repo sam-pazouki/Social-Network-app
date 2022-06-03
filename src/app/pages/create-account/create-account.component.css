@@ -44,3 +44,7 @@ mat-form-field{
 .buttons-container > p{
     margin-top: 10px;
 }
+.login-button{
+    background-color: #4285F4;
+    color: white;
+}
